@@ -1,4 +1,4 @@
-package com.example.common.utils;
+package com.example.common.util;
 
 /**
  * 业务处理统一模板,统一处理参数校验和异常处理

@@ -1,7 +1,7 @@
 package com.example.controller;
 
-import com.example.common.utils.ResponseCommonResult;
-import com.example.common.utils.ResponseManageTemplate;
+import com.example.common.util.result.ResponseCommonResult;
+import com.example.common.util.ResponseManageTemplate;
 import com.example.core.model.dto.PersonDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

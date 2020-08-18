@@ -1,8 +1,4 @@
-package com.example.common.utils;
-
-import org.springframework.web.bind.annotation.ResponseBody;
-
-import javax.xml.ws.Response;
+package com.example.common.util.result;
 
 /**
  * 返回结果对象封装
